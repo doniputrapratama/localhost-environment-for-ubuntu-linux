@@ -20,7 +20,7 @@
 # Login to MySQL as root
   <pre lang="markdown"> sudo mysql -u root -p </pre>
 # Once logged in, change the password with the command
-# Change YourNewPassword! with the password you want, minimum 8 characters with upper and lower case letters and have the character '@' and a number, for example Admin@123
+# Change 'YourNewPassword!' with the password you want, minimum 8 characters with upper and lower case letters and have the character '@' and a number, for example 'Admin@123'
  <pre lang="markdown"> ALTER USER 'root'@'localhost' IDENTIFIED BY 'YourNewPassword!'; </pre> <br> <pre lang="markdown"> FLUSH PRIVILEGES; </pre>
 # Changing Password Policy
   <pre lang="markdown"> SHOW VARIABLES LIKE 'validate_password%'; </pre> <br> <pre lang="markdown"> SET GLOBAL validate_password.policy = 0; </pre> <br> <pre lang="markdown"> EXIT; </pre>
