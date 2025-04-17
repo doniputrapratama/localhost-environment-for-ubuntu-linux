@@ -5,22 +5,20 @@
 
 # BASIC PREPARATION
 # System Update
-  sudo apt update && sudo apt upgrade -y
+  <pre lang="markdown"> sudo apt update && sudo apt upgrade -y </pre>
 # INSTALL APACHE
-  sudo apt install apache2 -y
+  <pre lang="markdown"> sudo apt install apache2 -y </pre>
 # Enable and Check Apache Status
   <pre lang="markdown"> sudo systemctl enable apache2 </pre> <br>  <pre lang="markdown"> sudo systemctl status apache2 </pre>
 # setting access rights
-  <pre lang="markdown"> ```bash sudo chown -R www-data:www-data /var/www/html 
-    sudo chmod -R 755 /var/www/html  ``` </pre>
+  <pre lang="markdown"> sudo chown -R www-data:www-data /var/www/html </pre> <br> <pre lang="markdown"> sudo chmod -R 755 /var/www/html </pre>
 # INSTALL MYSQL
-  sudo apt install mysql-server -y
+  <pre lang="markdown"> sudo apt install mysql-server -y </pre>
 # Run and Secure MySQL
-  sudo systemctl enable mysql
-  sudo mysql_secure_installation
+  <pre lang="markdown"> sudo systemctl enable mysql </pre> <br> <pre lang="markdown"> sudo mysql_secure_installation </pre>
 # Mysql server configuration
 # Login to MySQL as root
-  sudo mysql -u root -p
+  <pre lang="markdown"> sudo mysql -u root -p </pre>
 # Once logged in, change the password with the command
 # Change YourNewPassword! with the password you want, minimum 8 characters with upper and lower case letters and have the character '@' and a number, for example Admin@123
   ALTER USER 'root'@'localhost' IDENTIFIED BY 'YourNewPassword!';
