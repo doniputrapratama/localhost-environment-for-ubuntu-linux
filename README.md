@@ -42,7 +42,7 @@
   <pre lang="markdown"> cd /var/www/html/phpmyadmin </pre> <br> <pre lang="markdown"> cp config.sample.inc.php config.inc.php </pre>
 # Edit config.inc.php open yor terminal
   <pre lang="markdown"> sudo nano config.inc.php </pre>
-# Cari baris
+# Search row
   <pre lang="markdown"> $cfg['blowfish_secret'] = ''; </pre>
 # Fill with a random string of at least 32 characters
   <pre lang="markdown"> $cfg['blowfish_secret'] = '1x!2y@3z#4a$5b%6c^7d&8e*9f(0g)h'; </pre>
