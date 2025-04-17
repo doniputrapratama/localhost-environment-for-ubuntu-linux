@@ -9,7 +9,7 @@
 # INSTALL APACHE
   sudo apt install apache2 -y
 # Enable and Check Apache Status
-  sudo systemctl enable apache2
+  sudo systemctl enable apache2```
   sudo systemctl status apache2
 # setting access rights
   sudo chown -R www-data:www-data /var/www/html
