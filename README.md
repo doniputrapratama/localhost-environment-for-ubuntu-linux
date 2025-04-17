@@ -9,8 +9,8 @@
 # INSTALL APACHE
   sudo apt install apache2 -y
 # Enable and Check Apache Status
-  <pre lang="markdown"> ```bash sudo systemctl enable apache2 
-    sudo systemctl status apache2  ``` </pre>
+  <pre> sudo systemctl enable apache2 
+    sudo systemctl status apache2 </pre>
 # setting access rights
   <pre lang="markdown"> ```bash sudo chown -R www-data:www-data /var/www/html 
     sudo chmod -R 755 /var/www/html  ``` </pre>
