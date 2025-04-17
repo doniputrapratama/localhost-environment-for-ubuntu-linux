@@ -14,8 +14,6 @@
 # setting access rights
   sudo chown -R www-data:www-data /var/www/html
   sudo chmod -R 755 /var/www/html
-# Apache Test
-  http://localhost
 # INSTALL MYSQL
   sudo apt install mysql-server -y
 # Run and Secure MySQL
