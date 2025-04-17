@@ -1,4 +1,4 @@
-
+# This is only for ubuntu linux desktop environment not intended for ubuntu linux server or other linux servers
 # Before installing this new localhost environment, it is recommended to delete the old localhost environment and backup your projects and database before continuing with the installation.
 
 # Follow the terminal commands below for installation, don't make any mistakes or skip any steps. You must follow each step.
