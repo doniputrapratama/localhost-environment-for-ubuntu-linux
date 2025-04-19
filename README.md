@@ -2,7 +2,32 @@
 <h2>Support Operating System</h2>
 <p align="center">
   <img src="./icons/ubuntu-4.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong style="color:#E95420;">Ubuntu Environment Desktop</strong>
+  <strong>Ubuntu Environment Desktop</strong>
+</p> <br>
+<h2>Features</h2>
+<p>
+  <img src="./icons/php.svg" width="100" alt="Ubuntu Logo"><br>
+  <strong >PHP</strong>
+</p>
+<p>
+  <img src="./icons/apache.svg" width="100" alt="Ubuntu Logo"><br>
+  <strong>Apache</strong>
+</p>
+<p>
+  <img src="./icons/mysql.svg" width="100" alt="Ubuntu Logo"><br>
+  <strong>MySQL</strong>
+</p>
+<p>
+  <img src="./icons/nodejs.svg" width="100" alt="Ubuntu Logo"><br>
+  <strong>Node.js</strong>
+</p>
+<p>
+  <img src="./icons/database.svg" width="100" alt="Ubuntu Logo"><br>
+  <strong>phpMyAdmin</strong>
+</p>
+<p>
+  <img src="./icons/composer.svg" width="100" alt="Ubuntu Logo"><br>
+  <strong>Composer</strong>
 </p>
 
 
