@@ -1,7 +1,7 @@
 <h1>Localhost Environment for Ubuntu linux Dekstop</h1>
 <h2>Support Operating System</h2>
 <p align="center">
-  <img src="./icons/ubuntu.svg" width="100" alt="Ubuntu Logo" style="background-color:#E95420; padding:10px; border-radius:8px;"><br>
+  <img src="./icons/ubuntu-4.svg" width="100" alt="Ubuntu Logo"><br>
   <strong style="color:#E95420;">Ubuntu Environment Desktop</strong>
 </p>
 
