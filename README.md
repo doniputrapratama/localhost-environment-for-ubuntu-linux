@@ -9,24 +9,19 @@
   <a>
     <img src="./icons/php.svg" width="100" alt="PHP"><br>
     <strong>PHP</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a>
+  </a>&nbsp;&nbsp;&nbsp;<a>
     <img src="./icons/apache.svg" width="100" alt="Apache"><br>
     <strong>Apache</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a>
+  </a>&nbsp;&nbsp;&nbsp;<a>
     <img src="./icons/mysql.svg" width="100" alt="MySQL"><br>
     <strong>MySQL</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a>
+  </a>&nbsp;&nbsp;&nbsp;<a>
     <img src="./icons/nodejs.svg" width="100" alt="Node.js"><br>
     <strong>Node.js</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a>
+  </a>&nbsp;&nbsp;&nbsp;<a>
     <img src="./icons/database.svg" width="100" alt="phpMyAdmin"><br>
     <strong>phpMyAdmin</strong>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a>
+</a>&nbsp;&nbsp;&nbsp;<a>
     <img src="./icons/composer.svg" width="100" alt="Composer"><br>
     <strong>Composer</strong>
   </a>
