@@ -1,6 +1,10 @@
 <h1>Localhost Environment for Ubuntu linux Dekstop</h1>
 <h2>Support Operating System</h2>
-<img src="./icons/ubuntu.svg" width="100" alt="Ubuntu Logo">
+<p align="center">
+  <img src="./icons/ubuntu.svg" width="100" alt="Ubuntu Logo" style="background-color:#E95420; padding:10px; border-radius:8px;"><br>
+  <strong style="color:#E95420;">Ubuntu Environment Desktop</strong>
+</p>
+
 
 <p>This is only for ubuntu linux desktop environment not intended for ubuntu linux server or other linux servers</p>
 <p>Before installing this new localhost environment, it is recommended to delete the old localhost environment and backup your projects and database before continuing with the installation.</p>
