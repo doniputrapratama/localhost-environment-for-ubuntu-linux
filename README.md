@@ -8,28 +8,22 @@ perbaiki kode html ini agar berada di tengah kemudian sejajar dari kiri dan kana
 <h2>Features</h2>
 <div align="center">
   <a>
-    <img src="./icons/php.svg" width="100" alt="PHP"><br>
-    <strong>PHP</strong>
+    <img src="./icons/php.svg" width="100" alt="PHP">
   </a>&nbsp;&nbsp;
   <a>
-    <img src="./icons/apache.svg" width="100" alt="Apache"><br>
-    <strong>Apache</strong>
+    <img src="./icons/apache.svg" width="100" alt="Apache">
   </a>&nbsp;&nbsp;
   <a>
-    <img src="./icons/mysql.svg" width="100" alt="MySQL"><br>
-    <strong>MySQL</strong>
+    <img src="./icons/MySQL.svg" width="100" alt="MySQL">
   </a>&nbsp;&nbsp;
   <a>
-    <img src="./icons/nodejs.svg" width="100" alt="Node.js"><br>
-    <strong>Node.js</strong>
+    <img src="./icons/nodejs.svg" width="100" alt="Node.js">
   </a>&nbsp;&nbsp;
   <a>
-    <img src="./icons/database.svg" width="100" alt="phpMyAdmin"><br>
-    <strong>phpMyAdmin</strong>
+    <img src="./icons/PhpMyAdmin.svg" width="100" alt="phpMyAdmin">
   </a>&nbsp;&nbsp;
   <a>
-    <img src="./icons/composer.svg" width="100" alt="Composer"><br>
-    <strong>Composer</strong>
+    <img src="./icons/composer.svg" width="100" alt="Composer">
   </a>
 </div>
 <br>
