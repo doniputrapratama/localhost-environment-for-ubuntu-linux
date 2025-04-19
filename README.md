@@ -93,11 +93,28 @@
 <h3>And all is done please make your project happily</h3>
 <p>Please check your localhost environment by opening a browser and accessing the following link.</p>
 <pre lang="markdown"> http://localhost/ </pre>
-
-
-
-
-
-
-
-
+<h3>How to uninstall and delete configuration</h3>
+<p>Before uninstalling and deleting the configuration, you should secure or backup your project and database first.</p>
+<pre lang="markdown"> sudo rm -rf /var/www/html/phpmyadmin </pre> <br>
+<pre lang="markdown"> sudo rm /etc/apache2/sites-available/phpmyadmin.conf </pre>
+<pre lang="markdown"> sudo apt purge 'php*' -y </pre> <br>
+<pre lang="markdown"> sudo apt autoremove -y </pre> <br>
+<pre lang="markdown"> sudo rm -rf /etc/php </pre> <br>
+<pre lang="markdown"> sudo systemctl stop mysql </pre> <br>
+<pre lang="markdown"> sudo apt purge mysql-server mysql-client mysql-common mysql-server-core-* mysql-client-core-* -y </pre> <br>
+<pre lang="markdown"> sudo apt autoremove -y </pre> <br>
+<pre lang="markdown"> sudo rm -rf /etc/mysql /var/lib/mysql </pre> <br>
+<pre lang="markdown"> sudo rm -rf /var/log/mysql* </pre> <br>
+<pre lang="markdown"> sudo rm -rf /etc/apparmor.d/usr.sbin.mysqld </pre> <br>
+<pre lang="markdown"> sudo deluser mysql </pre> <br>
+<pre lang="markdown"> sudo delgroup mysql </pre> <br>
+<pre lang="markdown"> sudo apt purge nodejs npm -y </pre> <br>
+<pre lang="markdown"> sudo apt autoremove -y </pre> <br>
+<pre lang="markdown"> sudo rm -rf /usr/local/lib/node_modules </pre> <br>
+<pre lang="markdown"> sudo rm -rf ~/.npm </pre> <br>
+<pre lang="markdown"> sudo systemctl stop apache2 </pre> <br>
+<pre lang="markdown"> sudo apt purge apache2 apache2-utils apache2-bin apache2.2-common -y </pre> <br>
+<pre lang="markdown"> sudo apt autoremove -y </pre> <br>
+<pre lang="markdown"> sudo rm -rf /etc/apache2 </pre> <br>
+<pre lang="markdown"> sudo apt autoremove --purge -y </pre> <br>
+<pre lang="markdown"> sudo apt clean </pre>
