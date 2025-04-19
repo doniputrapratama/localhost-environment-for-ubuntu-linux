@@ -4,34 +4,34 @@
   <img src="./icons/ubuntu-4.svg" width="100" alt="Ubuntu Logo"><br>
   <strong>Ubuntu Environment Desktop</strong>
 </p> <br>
+<h2>Features</h2>
 <div align="center">
-  <span>
+  <a>
     <img src="./icons/php.svg" width="100" alt="PHP"><br>
     <strong>PHP</strong>
-  </span>
-  <span>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a>
     <img src="./icons/apache.svg" width="100" alt="Apache"><br>
     <strong>Apache</strong>
-  </span>
-  <span>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a>
     <img src="./icons/mysql.svg" width="100" alt="MySQL"><br>
     <strong>MySQL</strong>
-  </span>
-  <span>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a>
     <img src="./icons/nodejs.svg" width="100" alt="Node.js"><br>
     <strong>Node.js</strong>
-  </span>
-  <span>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a>
     <img src="./icons/database.svg" width="100" alt="phpMyAdmin"><br>
     <strong>phpMyAdmin</strong>
-  </span>
-  <span>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a>
     <img src="./icons/composer.svg" width="100" alt="Composer"><br>
     <strong>Composer</strong>
-  </span>
+  </a>
 </div>
 <br>
-
 <p>This is only for ubuntu linux desktop environment not intended for ubuntu linux server or other linux servers</p>
 <p>Before installing this new localhost environment, it is recommended to delete the old localhost environment and backup your projects and database before continuing with the installation.</p>
 
