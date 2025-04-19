@@ -11,7 +11,7 @@ perbaiki kode html ini agar berada di tengah kemudian sejajar dari kiri dan kana
     <img src="./icons/PHP.svg" width="100" alt="PHP">
   </a>&nbsp;&nbsp;
   <a>
-    <img src="./icons/apache.svg" width="100" alt="Apache">
+    <img src="./icons/Apache_HTTP_Server.svg" width="100" alt="Apache">
   </a>&nbsp;&nbsp;
   <a>
     <img src="./icons/MySQL.svg" width="100" alt="MySQL">
