@@ -8,7 +8,7 @@ perbaiki kode html ini agar berada di tengah kemudian sejajar dari kiri dan kana
 <h2>Features</h2>
 <div align="center">
   <a>
-    <img src="./icons/php.svg" width="100" alt="PHP">
+    <img src="./icons/PHP.svg" width="100" alt="PHP">
   </a>&nbsp;&nbsp;
   <a>
     <img src="./icons/apache.svg" width="100" alt="Apache">
