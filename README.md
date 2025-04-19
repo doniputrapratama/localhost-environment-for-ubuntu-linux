@@ -83,8 +83,16 @@
   <pre lang="markdown"> sudo snap install node --classic </pre>
 <h3>INSTALL COMPOSER</h3>
 <h3>Open your Terminal</h3>
-  <pre lang="markdown"> cd ~ </pre> <br> <pre lang="markdown"> php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" </pre> <br> <pre lang="markdown"> php composer-setup.php </pre> <br> <pre lang="markdown"> sudo mv composer.phar /usr/local/bin/composer </pre> <br> <pre lang="markdown"> composer --version </pre>
+  <pre lang="markdown"> cd ~ </pre> <br> <pre lang="markdown"> php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" </pre> <br> <pre lang="markdown"> php composer-setup.php </pre> <br> <pre lang="markdown"> sudo mv composer.phar /usr/local/bin/composer </pre>
+<h3>Last Configuration</h3><br>
+<h3>Open Your Terminal</h3>
+<pre lang="markdown"> cd ~ </pre> <br> <pre lang="markdown"> sudo rm /var/www/html/index.html </pre> <br> <pre lang="markdown"> sudo git clone https://github.com/doniputrapratama/dashboard-localhost-enviroment.git /var/www/html
+ </pre> <br> <pre lang="markdown"> sudo cp -r /var/www/html/dashboard-localhost-enviroment/. /var/www/html/
+ </pre> <br> <pre lang="markdown"> sudo rm -rf /var/www/html/dashboard-localhost-enviroment
+ </pre>
 <h3>And all is done please make your project happily</h3>
+<p>Please check your localhost environment by opening a browser and accessing the following link.</p>
+<pre lang="markdown"> http://localhost/ </pre>
 
 
 
