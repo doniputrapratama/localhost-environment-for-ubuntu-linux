@@ -33,11 +33,11 @@
 <h3>Enable Apache Module & Restart</h3>
   <pre lang="markdown"> sudo a2enmod php </pre> <br> <pre lang="markdown"> sudo systemctl restart apache2 </pre>
 <h3>INSTALL PHPMYADMIN</h3>
-<p>Go to the following link to download phpmyadmin in .zip format</p>
+<h3>Go to the following link to download phpmyadmin in .zip format</h3>
   <pre lang="markdown"> https://www.phpmyadmin.net/ </pre> <br> <pre lang="markdown"> cd ~/Downloads </pre>
-<p>change x.x.x according to the version downloaded for this phpMyAdmin-x.x.x-all-languages.zip</p>
+<h3>change x.x.x according to the version downloaded for this phpMyAdmin-x.x.x-all-languages.zip</h3>
   <pre lang="markdown"> unzip phpMyAdmin-x.x.x-all-languages.zip </pre> <br> <pre lang="markdown"> sudo mv phpMyAdmin-x.x.x-all-languages /var/www/html/phpmyadmin </pre>
-<p>or copy all the files in the phpMyAdmin-x.x.x-all-languages ​​folder that has been extracted to the /var/www/html/phpmyadmin folder. If there is no phpmyadmin folder, please create it first.</p>
+<h3>or copy all the files in the phpMyAdmin-x.x.x-all-languages ​​folder that has been extracted to the /var/www/html/phpmyadmin folder. If there is no phpmyadmin folder, please create it first.</h3>
 <h3>Set Access Rights</h3>
   <pre lang="markdown"> sudo chown -R www-data:www-data /var/www/html/phpmyadmin </pre> <br> <pre lang="markdown"> sudo chmod -R 755 /var/www/html/phpmyadmin </pre>
 <h3>Create Configuration File open your terminal</h3>
