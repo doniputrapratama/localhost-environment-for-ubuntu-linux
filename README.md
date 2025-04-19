@@ -118,3 +118,4 @@
 <pre lang="markdown"> sudo rm -rf /etc/apache2 </pre> <br>
 <pre lang="markdown"> sudo apt autoremove --purge -y </pre> <br>
 <pre lang="markdown"> sudo apt clean </pre>
+<h3>Done</h3>
