@@ -6,25 +6,32 @@
 </p> <br>
 perbaiki kode html ini agar berada di tengah kemudian sejajar dari kiri dan kanan sevara horizontall tanpa css
 <h2>Features</h2>
-<p>
-  <img src="./icons/php.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong >PHP</strong>
-</p><p>
-  <img src="./icons/apache.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong>Apache</strong>
-</p><p>
-  <img src="./icons/mysql.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong>MySQL</strong>
-</p><p>
-  <img src="./icons/nodejs.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong>Node.js</strong>
-</p><p>
-  <img src="./icons/database.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong>phpMyAdmin</strong>
-</p><p>
-  <img src="./icons/composer.svg" width="100" alt="Ubuntu Logo"><br>
-  <strong>Composer</strong>
-</p>
+<div align="center">
+  <a>
+    <img src="./icons/php.svg" width="100" alt="PHP"><br>
+    <strong>PHP</strong>
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="./icons/apache.svg" width="100" alt="Apache"><br>
+    <strong>Apache</strong>
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="./icons/mysql.svg" width="100" alt="MySQL"><br>
+    <strong>MySQL</strong>
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="./icons/nodejs.svg" width="100" alt="Node.js"><br>
+    <strong>Node.js</strong>
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="./icons/database.svg" width="100" alt="phpMyAdmin"><br>
+    <strong>phpMyAdmin</strong>
+  </a>&nbsp;&nbsp;
+  <a>
+    <img src="./icons/composer.svg" width="100" alt="Composer"><br>
+    <strong>Composer</strong>
+  </a>
+</div>
 <br>
 <p>This is only for ubuntu linux desktop environment not intended for ubuntu linux server or other linux servers</p>
 <p>Before installing this new localhost environment, it is recommended to delete the old localhost environment and backup your projects and database before continuing with the installation.</p>
