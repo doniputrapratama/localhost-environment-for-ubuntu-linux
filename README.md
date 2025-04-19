@@ -96,7 +96,8 @@
 <h3>How to uninstall and delete configuration</h3>
 <p>Before uninstalling and deleting the configuration, you should secure or backup your project and database first.</p>
 <pre lang="markdown"> sudo rm -rf /var/www/html/phpmyadmin </pre> <br>
-<pre lang="markdown"> sudo rm /etc/apache2/sites-available/phpmyadmin.conf </pre>
+<pre lang="markdown"> sudo rm /etc/apache2/sites-available/phpmyadmin.conf </pre> <br>
+<pre lang="markdown"> sudo rm /usr/local/bin/composer </pre> <br>
 <pre lang="markdown"> sudo apt purge 'php*' -y </pre> <br>
 <pre lang="markdown"> sudo apt autoremove -y </pre> <br>
 <pre lang="markdown"> sudo rm -rf /etc/php </pre> <br>
