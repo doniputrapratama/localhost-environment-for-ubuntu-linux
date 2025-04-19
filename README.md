@@ -86,7 +86,7 @@
   <pre lang="markdown"> cd ~ </pre> <br> <pre lang="markdown"> php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" </pre> <br> <pre lang="markdown"> php composer-setup.php </pre> <br> <pre lang="markdown"> sudo mv composer.phar /usr/local/bin/composer </pre>
 <h3>Last Configuration</h3><br>
 <h3>Open Your Terminal</h3>
-<pre lang="markdown"> cd ~ </pre> <br> <pre lang="markdown"> sudo rm /var/www/html/index.html </pre> <br> <pre lang="markdown"> sudo git clone https://github.com/doniputrapratama/dashboard-localhost-enviroment.git /var/www/html
+<pre lang="markdown"> cd ~ </pre> <br> <pre lang="markdown"> sudo rm /var/www/html/index.html </pre> <br> <pre lang="markdown"> git clone https://github.com/doniputrapratama/dashboard-localhost-enviroment.git /var/www/html
  </pre> <br> <pre lang="markdown"> sudo cp -r /var/www/html/dashboard-localhost-enviroment/. /var/www/html/
  </pre> <br> <pre lang="markdown"> sudo rm -rf /var/www/html/dashboard-localhost-enviroment
  </pre>
