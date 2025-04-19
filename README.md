@@ -3,8 +3,8 @@
 <p align="center">
   <img src="./icons/ubuntu-4.svg" width="100" alt="Ubuntu Logo"><br>
   <strong>Ubuntu Environment Desktop</strong>
-</p> <br>
-perbaiki kode html ini agar berada di tengah kemudian sejajar dari kiri dan kanan sevara horizontall tanpa css
+</p>
+<br>
 <h2>Features</h2>
 <div align="center">
   <a>
